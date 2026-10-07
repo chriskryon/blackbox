@@ -1073,6 +1073,8 @@ Deliverables:
 Implemented slice:
 
 - local `WorkspaceRuntime` for local directories,
+- git, sandbox, Docker, and cloud workspace backends (see
+  [`prd/07-workspaces.md`](prd/07-workspaces.md)),
 - file read/write/delete, patch artifact, snapshot, and command events,
 - `before_workspace_write`, `before_command`, and `before_artifact_export`
   policy gates,
