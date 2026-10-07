@@ -1081,7 +1081,6 @@ Implemented slice:
 Still pending:
 
 - approval-channel integration at workspace checkpoints,
-- git/sandbox/cloud workspace kinds,
 - richer artifact export and replay behavior.
 
 ### M3: MCP
